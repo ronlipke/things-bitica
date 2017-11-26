@@ -10,7 +10,7 @@ Really simple script to create to-dos in [Habitica](https://habitica.com/) from 
 # INSTALLATION & SETUP
 
 1. Put it in your $PATH if you want to invoke it regularly or better yet, create a launch-agent to run it at the same time every day
-2. Export the HABITICA_API_USER and HABITICA_API_KEY variables with your own values or just hardcode them in the script if you're feeling lazy
+2. Export the `HABITICA_API_USER` and `HABITICA_API_KEY` variables with your own values or just hardcode them in the script if you're feeling lazy
 
 # WHAT IT DOES
 
