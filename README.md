@@ -1,3 +1,5 @@
+# DEPRECATED
+
 # DESCRIPTION
 
 Really simple script to create to-dos in [Habitica](https://habitica.com/) from tasks you completed in [Things](https://culturedcode.com/things/) within the last 24 hours
